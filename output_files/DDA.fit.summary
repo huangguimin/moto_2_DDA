@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Feb 25 10:32:34 2016
+Quartus II 64-Bit Version : 15.0.2 Build 153 07/15/2015 SJ Full Version
+Revision Name : DDA
+Top-level Entity Name : DDA
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 491 / 6,272 ( 8 % )
+    Total combinational functions : 464 / 6,272 ( 7 % )
+    Dedicated logic registers : 274 / 6,272 ( 4 % )
+Total registers : 274
+Total pins : 52 / 92 ( 57 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )

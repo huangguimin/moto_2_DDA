@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Feb 25 10:32:27 2016
+Quartus II 64-Bit Version : 15.0.2 Build 153 07/15/2015 SJ Full Version
+Revision Name : DDA
+Top-level Entity Name : DDA
+Family : Cyclone IV E
+Total logic elements : 517
+    Total combinational functions : 464
+    Dedicated logic registers : 274
+Total registers : 274
+Total pins : 52
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
